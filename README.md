@@ -1,2 +1,0 @@
-# Saper
-Game saper

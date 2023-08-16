@@ -1,5 +1,6 @@
 #include <iostream>
 
+
 using namespace std;
 
 int field[100][100];
@@ -118,6 +119,7 @@ int main()
 			\f x y
 			\n
 			\q
+			\b
 			*/
 			string comand;
 			cin >> comand;
